@@ -1,1 +1,2 @@
-app.js
+app.jsc
+soy localStorage
